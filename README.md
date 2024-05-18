@@ -1,25 +1,23 @@
 # This repository have all cracked solutions of company Tangible Software Solutions
 
-C# to C++ Converter - v20.4.3.0
+CSharp to CPlus Converter - v24.4.25.0
 
-C++ to C# Converter - v20.3.27.0
+CSharp to Java Converter - v24.4.26.0
 
-C++ to Java Converter - v20.3.27.0
+CSharp to Python Converter - v24.4.25.0
 
-C++ to VB Converter - v20.3.27.0
+CPlus to CSharp Converter - v24.4.20.0
 
-CSharp to Java Converter - v20.4.3.0
+CPlus to Java Converter - v24.4.24.0
 
-Instant CSharp - v20.3.8.0
+CPlus to Python Converter - v24.4.20.0
 
-Instant VB - v20.4.3.0
+Java to CSharp Converter - v24.4.20.0
 
-Java to C# Converter - v20.4.3.0
+Java to CPlus Converter - 24.4.20.0
 
-Java to C++ Converter - 20.4.3.0
+Java to VB Python - v24.4.20.0
 
-Java to VB Converter - v20.4.3.0
+Instant CSharp - v24.4.25.0
 
-VB to C++ Converter - v20.3.3.0
-
-VB to Java Converter - v20.3.3.0
+Instant VB - v24.4.25.0
